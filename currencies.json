@@ -28,7 +28,7 @@
   {"cc":"CDF","symbol":"F","name":"Congolese franc"},
   {"cc":"CHF","symbol":"Fr.","name":"Swiss franc"},
   {"cc":"CLP","symbol":"$","name":"Chilean peso"},
-  {"cc":"CNY","symbol":"\u00a5","name":"Chinese renminbi"},
+  {"cc":"CNY","symbol":"\u00a5","name":"Chinese/Yuan renminbi"},
   {"cc":"COP","symbol":"Col$","name":"Colombian peso"},
   {"cc":"CRC","symbol":"\u20a1","name":"Costa Rican colon"},
   {"cc":"CUC","symbol":"$","name":"Cuban peso"},
@@ -154,6 +154,5 @@
   {"cc":"YER","symbol":"YER","name":"Yemeni rial"},
   {"cc":"ZAR","symbol":"R","name":"South African rand"},
   {"cc":"ZMK","symbol":"ZK","name":"Zambian kwacha"},
-  {"cc":"ZWR","symbol":"Z$","name":"Zimbabwean dollar"},
-  {"cc":"CNY","symbol":"\u00a5","name":"Yuan Renminbi"}
+  {"cc":"ZWR","symbol":"Z$","name":"Zimbabwean dollar"}
 ]
