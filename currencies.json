@@ -133,7 +133,7 @@
   {"cc":"TJS","symbol":"TJS","name":"Tajikistani somoni"},
   {"cc":"TMT","symbol":"m","name":"Turkmen manat"},
   {"cc":"TND","symbol":"DT","name":"Tunisian dinar"},
-  {"cc":"TRY","symbol":"YTL","name":"Turkish new lira"},
+  {"cc":"TRY","symbol":"TRY","name":"Turkish new lira"},
   {"cc":"TTD","symbol":"TT$","name":"Trinidad and Tobago dollar"},
   {"cc":"TWD","symbol":"NT$","name":"New Taiwan dollar"},
   {"cc":"TZS","symbol":"TZS","name":"Tanzanian shilling"},
