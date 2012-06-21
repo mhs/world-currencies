@@ -61,7 +61,7 @@
   {"cc":"HUF","symbol":"Ft","name":"Hungarian forint"},
   {"cc":"IDR","symbol":"Rp","name":"Indonesian rupiah"},
   {"cc":"ILS","symbol":"\u20aa","name":"Israeli new sheqel"},
-  {"cc":"INR","symbol":"INR","name":"Indian rupee"},
+  {"cc":"INR","symbol":"\u2089","name":"Indian rupee"},
   {"cc":"IQD","symbol":"\u062f.\u0639","name":"Iraqi dinar"},
   {"cc":"IRR","symbol":"IRR","name":"Iranian rial"},
   {"cc":"ISK","symbol":"kr","name":"Icelandic kr\u00f3na"},
