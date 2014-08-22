@@ -137,7 +137,7 @@
   {"cc":"TTD","symbol":"TT$","name":"Trinidad and Tobago dollar"},
   {"cc":"TWD","symbol":"NT$","name":"New Taiwan dollar"},
   {"cc":"TZS","symbol":"TZS","name":"Tanzanian shilling"},
-  {"cc":"UAH","symbol":"UAH","name":"Ukrainian hryvnia"},
+  {"cc":"UAH","symbol":"\u20b4","name":"Ukrainian hryvnia"},
   {"cc":"UGX","symbol":"USh","name":"Ugandan shilling"},
   {"cc":"USD","symbol":"US$","name":"United States dollar"},
   {"cc":"UYU","symbol":"$U","name":"Uruguayan peso"},
