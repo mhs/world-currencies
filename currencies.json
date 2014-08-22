@@ -12,7 +12,7 @@
   {"cc":"BAM","symbol":"KM","name":"Bosnia and Herzegovina konvertibilna marka"},
   {"cc":"BBD","symbol":"Bds$","name":"Barbadian dollar"},
   {"cc":"BDT","symbol":"\u09f3","name":"Bangladeshi taka"},
-  {"cc":"BGN","symbol":"BGN","name":"Bulgarian lev"},
+  {"cc":"BGN","symbol":"\u043b\u0432","name":"Bulgarian lev"},
   {"cc":"BHD","symbol":".\u062f.\u0628","name":"Bahraini dinar"},
   {"cc":"BIF","symbol":"FBu","name":"Burundi franc"},
   {"cc":"BMD","symbol":"BD$","name":"Bermudian dollar"},
